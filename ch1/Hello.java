@@ -1,3 +1,4 @@
+//
 package javaoop.ch1.Hello
 
 public class Hello{
